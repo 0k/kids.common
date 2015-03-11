@@ -1,0 +1,5 @@
+NAME="kids.common"
+DESCRIPTION="Common KIDS python library"
+EMAIL="valentin.lab@kalysto.org"
+AUTHOR="Valentin Lab"
+AUTHOR_EMAIL="$AUTHOR <$EMAIL>"
